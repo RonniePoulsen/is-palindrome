@@ -1,0 +1,6 @@
+D:\DEV\IsPalindrome\IsPalindrome\bin\Debug\IsPalindrome.exe.config
+D:\DEV\IsPalindrome\IsPalindrome\bin\Debug\IsPalindrome.exe
+D:\DEV\IsPalindrome\IsPalindrome\bin\Debug\IsPalindrome.pdb
+D:\DEV\IsPalindrome\IsPalindrome\obj\Debug\IsPalindrome.csprojResolveAssemblyReference.cache
+D:\DEV\IsPalindrome\IsPalindrome\obj\Debug\IsPalindrome.exe
+D:\DEV\IsPalindrome\IsPalindrome\obj\Debug\IsPalindrome.pdb
